@@ -1,8 +1,14 @@
-# 23Mentoring
-
 # Mentoring Group 23 GitHub Tutorial
 
-## Headers
+## This is a README file
+
+A README file tells you about a project and other files in the project directory. 
+<br>
+It can also include information on how to download a project and its dependencies.
+<br>
+Dependencies are other software/packages that your code relies on.
+<br>
+README's can also include copyright information and can also include a bibliography.
 
 # This is a Heading h1
 ## This is a Heading h2 
